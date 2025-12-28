@@ -137,8 +137,8 @@ This tool is intended **ONLY** for:
 
 # 📜 LICENSE
 
-**MIT License**
+**Happy Hacking ( Privacy & Security No Such Things Exists in digital World, We Can Hack Everything )**
 
-Free to use, modify & distribute — **with responsibility**.
+
 
 
