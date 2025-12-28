@@ -1,3 +1,6 @@
+<img width="1536" height="1024" alt="ChatGPT Image Dec 28, 2025, 09_21_55 PM" src="https://github.com/user-attachments/assets/e7ce01f6-7674-47f7-a4ac-14763fbb9297" />
+
+
 # ADB‑NETBREAKER
 <img width="1250" height="863" alt="tools ss" src="https://github.com/user-attachments/assets/d1edc059-5261-4028-a916-76bdda47ee57" />
 
